@@ -18,3 +18,11 @@ header .logo {
 	background-image: linear-gradient(#04519b, #044687 60%, #033769);
 	color: #fff !important;
 }
+
+.likes:before {
+    content: "\f087";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
