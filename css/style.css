@@ -26,3 +26,19 @@ header .logo {
     font-weight: normal;
     text-decoration: inherit;
 }
+
+.comment-avatar img {
+	width: 40px;
+	margin-right: 5px;
+}
+
+.friends li {
+	list-style: none;
+	padding: 5px;
+	display: inline;
+	float: left;
+}
+
+.friends img {
+	width: 55px;
+}
