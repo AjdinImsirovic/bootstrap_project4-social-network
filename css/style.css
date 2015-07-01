@@ -93,11 +93,17 @@ header .logo {
 
 .friends li {
 	list-style: none;
-	padding: 5px;
+	padding: 0 5px;
 	display: inline;
 	float: left;
 }
 
 .friends img {
 	width: 55px;
+}
+
+.groups img {
+	width: 80px;
+	float: left;
+	margin-right:15px;
 }
