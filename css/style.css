@@ -136,3 +136,10 @@ footer {
 	border-top: 7px solid #04519b;
 }
 
+
+@media (min-width:991px) {
+	.members p {
+		padding-top: 40px;
+	}
+}
+
